@@ -11,7 +11,7 @@ h) ( V ) String b = “1”
 i) ( V ) float x = 2.7;
 j) ( F ) int a = false;
 
-
+Questão 4 - Ocorreu um erro "incompatible types: possible lossy conversion from long to int"
 
 
 
